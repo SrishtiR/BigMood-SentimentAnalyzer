@@ -1,0 +1,15 @@
+neg
+"Who invented hayfever? "
+neg
+"@seodubai Go #Lakers go!  Good morning!"
+neg
+"I'm seriously upset/sad about my ipod "
+neg
+"@zinedistro Your welcome. Looking forward to the event!!  Not long until May 1 now...."
+neg
+"@ddlovato Demi I'll deff see you on Brazil (S�o Paulo) on the show "
+neg
+"can't wait for the lakers to lose "
+neg
+"great weekend w/family "
+0.800498753117207
